@@ -1,4 +1,4 @@
-This is a system for selling plane tickets. A microservice architecture was used for implementation. The system consists of three services. 
+This is a system for selling plane tickets. A microservice architecture was used for implementation. The system contains three services. 
 
 Service 1 is a customer service. It supports: user registration and login, profile change, credit card addition, user rank depending on the number of miles traveled. The role of the admin is to add and delete flights.
 
